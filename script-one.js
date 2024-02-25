@@ -10,6 +10,7 @@ var map = new mapboxgl.Map({
   center: [145.77391454377837, -34.97881526576915],
   zoom: 7,
   preserveDrawingBuffer: true,
+  cooperativeGestures: true,
   customAttribution:
     '<a target="_blank" href=http://www.geocadder.bg/en>GEOCADDDER</a>',
 });
