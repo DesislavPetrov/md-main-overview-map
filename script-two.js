@@ -100,7 +100,7 @@ $.getJSON(
         el.className = "marker " + markerId;
 
         el.innerHTML =
-          "<div class='marker-icon-text-container'><div class='marker-icon-image'><img src='https://uploads-ssl.webflow.com/650167c877dd38466d76ae92/65dbb1cc8344f32704559557_marker.svg'></div><div class='marker-icon-text'>" +
+          "<div class='marker-icon-text-container'><div class='marker-icon-image'><img src='https://uploads-ssl.webflow.com/650167c877dd38466d76ae92/65f84e2b397696d874b68916_CC-Town-Pin-Icon.png'></div><div class='marker-icon-text'>" +
           lgaName +
           "</div></div>";
 
